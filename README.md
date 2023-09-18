@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir Hossen Aurnob</h1>
-<h3 align="center">A passionate Full stack developer from Bangladesh. I am student. I am a quick learn and self-learner</h3>
+<h3 align="center">A passionate Full stack Web developer from Bangladesh. I am student. I am a quick learn and self-learner</h3>
 
 - 🌱 I’m currently learning **Laravel & vue js**
 
