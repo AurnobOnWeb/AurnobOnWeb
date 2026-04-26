@@ -1,20 +1,45 @@
-<h1 align="center">Hi 👋, I'm Abir Hossen Aurnob</h1>
-<h3 align="center">A passionate Full stack Web developer from Bangladesh. I am student. I am a quick learner and self-learner</h3>
+# 👋 Hi, I'm Abir Hossen Aurnob  
 
-- 🌱 I’m currently learning **Laravel & vue js**
+### 💻 Full Stack Web Developer | 🎓 Student | 🇧🇩 Bangladesh  
 
-- 👨‍💻 All of my projects are available at [https://github.com/AurnobOnWeb](https://github.com/AurnobOnWeb)
+I’m a passionate and self-motivated full stack web developer with a strong eagerness to learn and build impactful projects. I enjoy turning ideas into real-world applications and continuously improving my skills through hands-on practice.
 
-- 📫 How to reach me **abirhosain090@gmail.com**
+---
 
-- ⚡ Fun fact **I wanna be Sasuke's student.**
+## 🚀 About Me  
+- ⚡ Fast learner and highly self-driven  
+  👉 [GitHub Portfolio](https://github.com/AurnobOnWeb)  
+- 📫 Reach me at: **abirhosain090@gmail.com**  
+- 🎯 Fun fact: *I still want to be Sasuke’s student 😄*  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abirhossenaurnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abirhossenaurnob" height="30" width="40" /></a>
-<a href="https://fb.com/mohammud.abir.hosain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammud.abir.hosain" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammud_abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammud_abir" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abirhossenaurnob)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mohammud.abir.hosain)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammud_abir)  
+
+---
+
+## 🛠️ Languages & Tools  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)  
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)  
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)  
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)  
+
+---
+
+## 📌 Goals  
+- Build scalable full-stack applications  
+- Master modern JavaScript frameworks  
+- Contribute to open-source projects  
