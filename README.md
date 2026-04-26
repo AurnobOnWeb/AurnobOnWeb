@@ -7,7 +7,6 @@ I’m a passionate and self-motivated full stack web developer with a strong eag
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **Laravel & Vue.js**  
 - ⚡ Fast learner and highly self-driven  
 - 👨‍💻 Explore my projects:  
   👉 [GitHub Portfolio](https://github.com/AurnobOnWeb)  
